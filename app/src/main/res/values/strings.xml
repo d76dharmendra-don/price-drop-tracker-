@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="out_of_stock_title">Out of Stock</string>
+    <string name="out_of_stock_heading">Product is Out of Stock</string>
+    <string name="out_of_stock_message">We apologize for the inconvenience. This item is currently unavailable and cannot be added to your cart.</string>
+    <string name="out_of_stock_restock_note">Expected back in stock soon. Tap below to get notified as soon as inventory arrives.</string>
+    <string name="notify_button">Notify Me When In Stock</string>
+    <string name="notified_confirmation">You will be notified as soon as this product is back in stock!</string>
+</resources>
